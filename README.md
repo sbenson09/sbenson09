@@ -2,7 +2,7 @@
 
 👀 I’m interested in security, 日本語, and weightlifting.
 
-🌱 I’m currently learning pentesting, Japanese, and how to be a manager.
+🌱 I’m currently reading [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition), [How Linux Works](https://nostarch.com/howlinuxworks3), and [Quartet: Intermediate Japanese Across the Four Language Skills, textbook 1](https://quartet.japantimes.co.jp/en/).
 
 📫 You can reach out to me over LinkedIn. Profile [here](https://www.linkedin.com/in/seanmbenson/)!
 
